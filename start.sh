@@ -1,0 +1,1 @@
+java -jar ./duckencoder.jar -i script.txt -o /Volumes/Untitled\ 1/inject.bin

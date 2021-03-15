@@ -1,0 +1,9 @@
+DELAY 1000
+GUI SPACE
+DELAY 200
+STRING terminal
+ENTER
+DELAY 500
+STRING say -v Alice "Argo e il cane piu bello del mondo"
+ENTER
+GUI TAB
